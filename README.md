@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Palak Sharma</h1>
 <h2 >AI Enthusiast | Flutter Developer | Python Developer | Research Enthusiast</h2>
-<p> I am an AI enthusiast because it is fun to build new things that do fantastic stuff. t's fun to solve problems, think of fresh approaches, and see your concepts come to life.</p>
+<p> I am passionate about AI because I enjoy creating new things with amazing features. It's fun to solve problems, think of fresh approaches, and see your concepts come to life.</p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGk9MVGMbYNpe12v4YKcZfLoOba0m_ygxBhRopvGZVs5bKa0_JJjg8pSFV7UiHChX72AvGYcZzu3dEntaEp74IUah_Ts6iND4amIR5MTnIHdKS5yI0pT-xjWJmjQ6zGPj_EG8XxHYsTw08lqBhiQLUr8-R-C4iCtt6yNW8u1GmJXgQ57EVIT_K8Fg9/s577/image_processing20210510-30544-4mlsmf-removebg-preview.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2665&label=Profile%20views&color=0e75b6&style=flat" alt="palak2665" /> </p>
