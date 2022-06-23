@@ -1,4 +1,3 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkHUL64gL60eENY6biJM3i4GTH088NUYaH6ojqe1-93K_jSbBTon5XvFuH28uEesx1qJ8KSO03t9Ar4REXRwbliyDbFchQFa3cSyXdFVs9UtpUko3E3BGlJgpgwGNm--vbX6ewMQyKvROtTCSr3hxJvAiu-XiINlyKKFFaT4jNdRGc_wslQmHKEe7/s1599/ai-artificial-intelligence-degree-icons-vector-banner-concept-illustration-icon-set-robotics-machine-learning-autonomous-problem-214718866.jpg)
 <h1 align="center">Hi 👋, I'm Palak Sharma</h1>
 <h3 align="center">A passionate AI Enthusiast from India</h3>
 <br>
