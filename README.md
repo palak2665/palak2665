@@ -1,12 +1,12 @@
 <h1 >Hi 👋, I'm Palak Sharma</h1>
-<h2 >AI Enthusiast | Flutter Developer | Python Developer | Research Enthusiast</h2>
-<p> I am passionate about AI because I enjoy creating new things with amazing features. It's fun to solve problems, think of fresh approaches, and see your concepts come to life.</p>
+<h2 > Flutter Developer | AI Enthusiast | Python Developer | Research Enthusiast</h2>
+<p> I am passionate about coding because I enjoy creating new things with amazing features. It's fun to solve problems, think of fresh approaches, and see your concepts come to life.</p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGk9MVGMbYNpe12v4YKcZfLoOba0m_ygxBhRopvGZVs5bKa0_JJjg8pSFV7UiHChX72AvGYcZzu3dEntaEp74IUah_Ts6iND4amIR5MTnIHdKS5yI0pT-xjWJmjQ6zGPj_EG8XxHYsTw08lqBhiQLUr8-R-C4iCtt6yNW8u1GmJXgQ57EVIT_K8Fg9/s577/image_processing20210510-30544-4mlsmf-removebg-preview.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2665&label=Profile%20views&color=0e75b6&style=flat" alt="palak2665" /> </p>
 <p align="left"> <a href="https://twitter.com/palaksharmaps" target="blank"><img src="https://img.shields.io/twitter/follow/palaksharmaps?logo=twitter&style=for-the-badge" alt="palaksharmaps" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Python, Flutter, MachineLearning, UI/UX**
 
